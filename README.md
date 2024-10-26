@@ -1,2 +1,2 @@
 # nvimConfig
-![ScreenShot](ScreenShot.jpg)
+![ScreenShot](ScreenShot.png)
